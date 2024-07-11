@@ -1,1 +1,3 @@
 # Repository for learning Data Science and Machine Learning
+
+currently learning time series....
