@@ -1,25 +1,25 @@
 # Time Series Topics
 
-1. Time Series Analysis
-2. Stationarity
-3. Seasonality
-4. Trend
-5. Cyclic Patterns
-6. Autocorrelation
-7. Partial Autocorrelation
-8. Time Series Decomposition
-9. Smoothing Techniques
-10. Forecasting-
-11. Time Series Data Preparation
-12. Time Series Feature Engineering
-13. Time Series Anomalies
-14. Time Series Clustering
-15. Time Series Classification
-16. Time Series Cross-Validation
-17. Long Short-Term Memory (LSTM)
-18. Granger Causality
-19. Vector Autoregression (VAR)
-20. Vector Error Correction Model (VECM)
+    1. Time Series Analysis
+    2. Stationarity
+    3. Seasonality
+    4. Trend
+    5. Cyclic Patterns
+    6. Autocorrelation
+    7. Partial Autocorrelation
+    8. Time Series Decomposition
+    9. Smoothing Techniques
+    10. Forecasting-
+    11. Time Series Data Preparation
+    12. Time Series Feature Engineering
+    13. Time Series Anomalies
+    14. Time Series Clustering
+    15. Time Series Classification
+    16. Time Series Cross-Validation
+    17. Long Short-Term Memory (LSTM)
+    18. Granger Causality
+    19. Vector Autoregression (VAR)
+    20. Vector Error Correction Model (VECM)
 
 # Time Series Models
 
